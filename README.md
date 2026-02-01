@@ -26,8 +26,8 @@ Tableau
 
 📁 Project Structure
 
-project/
-├── dashboard/
+project_2/
+├── dashboards/
 ├── data/
 ├── notebooks/
 ├── report/
