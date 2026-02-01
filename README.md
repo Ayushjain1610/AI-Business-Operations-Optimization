@@ -24,19 +24,6 @@ PuLP (Operations Research)
 Matplotlib
 Tableau
 
-📂 Data Note
-Raw and processed sales data are not fully included in this repository due to size considerations.
-
-The project focuses on:
-
-Feature engineering
-Forecasting
-Optimization modeling
-Financial simulation
-Dashboarding
-
-Sample or synthetic data can be added if required.
-
 📁 Project Structure
 
 project/
